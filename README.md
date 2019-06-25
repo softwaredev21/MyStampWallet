@@ -1,6 +1,6 @@
 # MyStampWallet
 
-![Alt text](https://user-images.githubusercontent.com/47564047/60111501-00c9c080-97a9-11e9-95c3-8bc37d3f48a5.png "Screens")
+![Alt text](https://user-images.githubusercontent.com/47564047/60111686-61f19400-97a9-11e9-96d8-0beaca14bae8.png "Screens")
 
 1. Android
   - java/android studio
